@@ -8,7 +8,7 @@
   :root {
     --bg-header-color: #FFF1F7;
     --bg-color: #FF8DCB;
-    --bg-img-header: url(../images/cover-image-light.png) no-repeat center / cover;
+    --bg-img-header: url(../images/cover-image-light.png);
     --br-color: #353430;
     --br-focus-color: #353430;
     --shadow-color: #FF8DCB;
@@ -29,7 +29,7 @@
   */
   --bg-header-color: #FFF1F7;
   --bg-color: #FF8DCB;
-  --bg-img-header: url(../images/cover-image-light.png) no-repeat center / cover;
+  --bg-img-header: url(../images/cover-image-light.png);
   --br-color: #353430;
   --br-focus-color: #353430;
   --shadow-color: #FF8DCB;

@@ -7,10 +7,12 @@
 :root {
   --font-family: 'IBM Plex Mono';
   --font-size-main: 18px;
+  --font-size-title-mobile: clamp(7.25rem, 5.2999rem + 8.3205vw, 10.625rem);
+  --font-size-title-desk: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   --font-weight-title: 700;
   --font-weight-main: 400;
   --bg-color: #FF0070;
-  --bg-img-header: url(../images/cover-image-dark.png) no-repeat center / cover;
+  --bg-img-header: url(../images/cover-image-dark.png);
   --br-color: #FF0070;
   --br-focus-color: #F1B2CE;
   --shadow-color: #FF0070;

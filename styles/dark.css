@@ -11,7 +11,7 @@
   */
   --bg-header-color: #000028;
   --bg-color: #FF0070;
-  --bg-img-header: url(../images/cover-image-dark.png) no-repeat center / cover;
+  --bg-img-header: url(../images/cover-image-dark.png);
   --br-color: #FF0070;
   --br-focus-color: #F1B2CE;
   --shadow-color: #FF0070;
