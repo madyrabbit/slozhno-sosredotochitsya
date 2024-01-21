@@ -118,6 +118,7 @@
 }
 
 .header__theme-menu-button_active {
+  pointer-events: none;
   border: 1px solid var(--br-color, #FF0070);
 }
 
@@ -216,7 +217,7 @@
   }
 
   .card__text-link:hover {
-    border-block-end: 2px solid var(--main-color, #F1B2CE);
+    border-block-end: 1px solid var(--main-color, #F1B2CE);
   }
 }
 
